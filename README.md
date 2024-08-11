@@ -16,6 +16,11 @@ https://github.com/user-attachments/assets/48d32ef4-1f15-469e-993a-bdf8854ec88c
 
 
 ## Installation
+```
+conda create -n medsam python=3.10 -y
+conda activate sam2_in_med
+git clone -b MedSAM2 
+```
 
 Environment Requirements: `Ubuntu 20.04` | Python `3.10` | `CUDA 12.1+` | `Pytorch 2.3.1`
 
